@@ -1,0 +1,14 @@
+.photo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.picture{
+    width:  calc(33.33% - 10px);
+    margin-bottom: 55px;
+}
+
+.picture{
+    width: 30%;
+}
